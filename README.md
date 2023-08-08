@@ -1,4 +1,4 @@
-# Hi there, I am Jørgen Finsveen 👋
+# Hi there, I am Jørgen Finsveen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-joergen%20finsveen-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joergen-finsveen/)&nbsp;
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joergen_finsveen)&nbsp;<br/>
@@ -24,23 +24,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#About">About</a></li>
-    <li>
-      <a href="#Experience">Experience</a>
-      <ul>
-        <li><a href="#Education">Education</a></li>
-        <li><a href="#Projects and Work">Projects and Work</a></li>
-        <li><a href="#Languages and Tools">Languages and Tools</a></li>
-        <li><a href="#Stats">Stats</a></li>
-      </ul>
-    </li>
-    <li><a href="#Contact">Contact</a></li>
-  </ol>
-</details>
-
+- [About](#about)
+- [Experience](#experience)
+  - [Education](#education)
+  - [Projects and Work](#projects-and-work)
+  - [Languages and Tools](#languages-and-tools)
+  - [Stats](#stats)
+- [Contact](#contact)
+- 
 
 
 ## About
@@ -69,15 +60,18 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 
 ### Projects and Work
 
+<br/>
+
+
 * June 2023 - August 2023
   * Norwegian University of Science and Technology (NTNU)
   * Application development
-  * <a href="https://github.com/KQMATH/moodle-mod_jazzquiz">JazzQuiz</a> - A Moodle plugin
-  * <a href="https://github.com/KQMATH/moodle-local_qtracker">QTracker</a> - A Moodle plugin
+  * <a href="https://github.com/KQMATH/moodle-mod_jazzquiz">JazzQuiz</a> - A [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/2560px-Moodle-logo.svg.png" height="15"/>](https://github.com/moodle/moodle) plugin
+  * <a href="https://github.com/KQMATH/moodle-local_qtracker">QTracker</a> - A [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/2560px-Moodle-logo.svg.png" height="15"/>](https://github.com/moodle/moodle) plugin
 * May 2022 - August 2022
   * Norwegian University of Science and Technology (NTNU)
   * Application development
-  * <a href="https://github.com/KQMATH/moodle-qtype_stack">STACK</a> - A Moodle plugin
+  * <a href="https://github.com/KQMATH/moodle-qtype_stack">STACK</a> - A [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/2560px-Moodle-logo.svg.png" height="15"/>](https://github.com/moodle/moodle) plugin
 
 <br/><br/>
 
@@ -103,12 +97,16 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 <br/><br/>
 
 ### Stats
-<p>
+<p float="left">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgenfinsveen&theme=dark&background=000000$card_width=900)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgenfinsveen&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 </p>
 
+<br/><br/>
 
+## Contact
+
+* Academia: [jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)
+* Personal: [joergen.finsveen@gmail.com](mailto:joergen.finsveen@gmail.com)
