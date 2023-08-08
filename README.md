@@ -47,7 +47,7 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 
 <br/>
 <div display="table" float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Danmarks_Tekniske_Universitet_%28logo%29.svg/1200px-Danmarks_Tekniske_Universitet_%28logo%29.svg.png" title="DTU" alt="DTU" width="80" height="80" display="table-cell" vertical-align="middle"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Danmarks_Tekniske_Universitet_%28logo%29.svg/1200px-Danmarks_Tekniske_Universitet_%28logo%29.svg.png" title="DTU" alt="DTU" height="80" display="table-cell" vertical-align="middle"/>
   
   <ul display="table-cell" background-position="left center" background-repeat="no-repeat" vertical-align="middle">
     <li display="inline-block" >August 2023 - January 2024</li>
@@ -62,13 +62,13 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 <br/>
 
 <div display="table" float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/1200px-Logo-Ntnu.svg.png" title="NTNU" alt="NTNU" width="80" height="80" display="table-cell" vertical-align="middle"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/1200px-Logo-Ntnu.svg.png" title="NTNU" alt="NTNU" height="80" display="table-cell" vertical-align="middle"/>
   
   <ul display="table-cell" background-position="left center" background-repeat="no-repeat" vertical-align="middle">
     <li display="inline-block">August 2021 - June 2024</li>
     <ul>
       <li><a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
-      <li>Bachelor's Degree - Computer Engineering/li>
+      <li>Bachelor's Degree - Computer Engineering</li>
     </ul>
   </ul>
 
