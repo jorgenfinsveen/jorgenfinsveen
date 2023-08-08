@@ -7,7 +7,6 @@
 
 
 
-<br/>
 
 <!--
 **jorgenfinsveen/jorgenfinsveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,14 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- [About](#about)
-- [Experience](#experience)
-  - [Education](#education)
-  - [Projects and Work](#projects-and-work)
-  - [Languages and Tools](#languages-and-tools)
-  - [Stats](#stats)
-- [Contact](#contact)
 
 <br/>
 
