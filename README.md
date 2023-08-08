@@ -31,18 +31,19 @@ Here are some ideas to get you started:
   - [Languages and Tools](#languages-and-tools)
   - [Stats](#stats)
 - [Contact](#contact)
-- 
 
+<br/>
 
-## About
+## 🖊️ About
 
 I am a Bs.c student of Computer Engineering at the Norwegian University of Science and Technology (NTNU) campus Ålesund. I specialize in application development.<br/>
 
 <br/>
 
-## Experience
+## 🔬 Experience
 
-### Education
+
+### 🎓 Education
 
 <br/><p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/1200px-Logo-Ntnu.svg.png" title="NTNU" alt="NTNU" width="80" height="80"/>&nbsp;
@@ -58,7 +59,7 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 
 <br/><br/>
 
-### Projects and Work
+### 📆 Projects and Work
 
 <br/>
 
@@ -75,7 +76,7 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 
 <br/><br/>
 
-### Languages and Tools
+### 💻 Languages and Tools
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -96,7 +97,7 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 
 <br/><br/>
 
-### Stats
+### 📈 Stats
 <p float="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
@@ -106,7 +107,7 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 
 <br/><br/>
 
-## Contact
+## 📫 Contact
 
 * Academia: [jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)
 * Personal: [joergen.finsveen@gmail.com](mailto:joergen.finsveen@gmail.com)
