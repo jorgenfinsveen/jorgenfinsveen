@@ -87,6 +87,8 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 
 ### 💻 Languages and Tools
 
+<br/>
+
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -107,6 +109,9 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
 <br/><br/>
 
 ### 📈 Stats
+
+<br/>
+
 <p float="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
