@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🖊️ About
 
-I am a Bs.c student of Computer Engineering at the Norwegian University of Science and Technology (NTNU) campus Ålesund. I specialize in application development.<br/>
+I am a MS.c student of Computer Science at the Norwegian University of Science and Technology (NTNU) campus Trondheim. I specialize in algorithms, paralellization, low-level programming, and computer architecture.<br/>
 
 <br/>
 
@@ -59,7 +59,7 @@ I am a Bs.c student of Computer Engineering at the Norwegian University of Scien
     <li display="inline-block">August 2021 - June 2024</li>
     <ul>
       <li><a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
-      <li>Bachelor's Degree - Computer Engineering</li>
+      <li>Bachelor's Degree - Computer Science</li>
     </ul>
   </ul>
 
