@@ -36,6 +36,23 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
 
 ### 🎓 Education
 
+<br/> 
+<div display="table" float="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/1200px-Logo-Ntnu.svg.png" title="NTNU" alt="NTNU" height="80" display="table-cell" vertical-align="middle"/>
+  
+  <ul display="table-cell" background-position="left center" background-repeat="no-repeat" vertical-align="middle">
+    <li display="inline-block">August 2024 - June 2026</li>
+    <ul>
+      <li><a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
+      <li>Master's Degree - Computer Science</li>
+      <ul>
+        <li>Specialization: Algorithms and computers</li>
+      </ul>
+    </ul>
+  </ul>
+
+</div>
+
 <br/>
 <div display="table" float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Danmarks_Tekniske_Universitet_%28logo%29.svg/1200px-Danmarks_Tekniske_Universitet_%28logo%29.svg.png" title="DTU" alt="DTU" height="80" display="table-cell" vertical-align="middle"/>
@@ -60,6 +77,9 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
     <ul>
       <li><a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
       <li>Bachelor's Degree - Computer Science</li>
+      <ul>
+        <li>Specialization: Application development</li>
+      </ul>
     </ul>
   </ul>
 
@@ -100,7 +120,8 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="35"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" **alt="Docker" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
