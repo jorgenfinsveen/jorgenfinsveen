@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🖊️ About
 
-I am a MS.c student of Computer Science at the Norwegian University of Science and Technology (NTNU) campus Trondheim. I specialize in algorithms, paralellization, embedded systems, low-level programming, and computer architecture.<br/>
+I am a MS.c student of Computer Science at the Norwegian University of Science and Technology (NTNU) campus Trondheim. I specialize in algorithms, parallellization, embedded systems, low-level programming, and computer architecture.<br/>
 
 <br/>
 
