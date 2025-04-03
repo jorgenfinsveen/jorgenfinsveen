@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🖊️ About
 
-I am a MS.c student of Computer Science at the Norwegian University of Science and Technology (NTNU) campus Trondheim. I specialize in algorithms, paralellization, low-level programming, and computer architecture.<br/>
+I am a MS.c student of Computer Science at the Norwegian University of Science and Technology (NTNU) campus Trondheim. I specialize in algorithms, paralellization, embedded systems, low-level programming, and computer architecture.<br/>
 
 <br/>
 
@@ -41,7 +41,7 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/1200px-Logo-Ntnu.svg.png" title="NTNU" alt="NTNU" height="80" display="table-cell" vertical-align="middle"/>
   
   <ul display="table-cell" background-position="left center" background-repeat="no-repeat" vertical-align="middle">
-    <li display="inline-block">August 2024 - June 2026</li>
+    <li display="inline-block">__August 2024 - June 2026__</li>
     <ul>
       <li><a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
       <li>Master's Degree - Computer Science</li>
@@ -92,15 +92,26 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
 
 <br/>
 
+__January 2024 - June 2024__ 
+* Norwegian University of Science and Technologu (NTNU) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/2048px-Logo-Ntnu.svg.png" height="15"/>](https://www.ntnu.edu)
+* Kongsberg Maritime [<img src="https://s3-symbol-logo.tradingview.com/kongsberg-gruppen-asa--600.png" height="15"/>](https://www.kongsberg.com/maritime/)
+* Bachelor thesis: Health Management - Anomaly detection and classification
+  * Keywords: LSTM, deep learning, maritime vessel engine health prediction, unsupervised learning
+  * <a href="https://hdl.handle.net/11250/3138358">Paper</a> @ NTNU Open 
 
-* June 2023 - August 2023
-  * Norwegian University of Science and Technology (NTNU)
-  * Application development
+<br/>
+
+__June 2023 - August 2023__
+* Norwegian University of Science and Technology (NTNU) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/2048px-Logo-Ntnu.svg.png" height="15"/>](https://www.ntnu.edu)
+* Application development
   * <a href="https://github.com/KQMATH/moodle-mod_jazzquiz">JazzQuiz</a> - A [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/2560px-Moodle-logo.svg.png" height="15"/>](https://github.com/moodle/moodle) plugin
   * <a href="https://github.com/KQMATH/moodle-local_qtracker">QTracker</a> - A [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/2560px-Moodle-logo.svg.png" height="15"/>](https://github.com/moodle/moodle) plugin
-* May 2022 - August 2022
-  * Norwegian University of Science and Technology (NTNU)
-  * Application development
+
+<br/>
+
+__May 2022 - August 2022__
+* Norwegian University of Science and Technology (NTNU) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/2048px-Logo-Ntnu.svg.png" height="15"/>](https://www.ntnu.edu)
+* Application development
   * <a href="https://github.com/KQMATH/moodle-qtype_stack">STACK</a> - A [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moodle-logo.svg/2560px-Moodle-logo.svg.png" height="15"/>](https://github.com/moodle/moodle) plugin
 
 <br/><br/>
@@ -130,20 +141,25 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
 
 <br/><br/>
 
+<!--
 ### 📈 Stats
 
 <br/>
 
 <p float="left">
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgenfinsveen&theme=dark&background=000000$card_width=900)](https://git.io/streak-stats)
+
 
 </p>
 
 <br/><br/>
+-->
+
 
 ## 📫 Contact
 
 * Academia: [jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)
-* Personal: [joergen.finsveen@gmail.com](mailto:joergen.finsveen@gmail.com)
+<!-- * Personal: [joergen.finsveen@gmail.com](mailto:joergen.finsveen@gmail.com) -->
