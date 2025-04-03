@@ -39,31 +39,25 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
 <br/> 
 <div display="table" float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/1200px-Logo-Ntnu.svg.png" title="NTNU" alt="NTNU" height="80" display="table-cell" vertical-align="middle"/>
-  
-  <ul display="table-cell" background-position="left center" background-repeat="no-repeat" vertical-align="middle">
-    <li display="inline-block">__August 2024 - June 2026__</li>
-    <ul>
-      <li><a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
-      <li>Master's Degree - Computer Science</li>
-      <ul>
-        <li>Specialization: Algorithms and computers</li>
-      </ul>
-    </ul>
-  </ul>
 
+__August 2024 - June 2026__
+* <a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
+* Master's Degree - Computer Science
+  * Specialization: Algorithms and computers
+  
 </div>
 
+
 <br/>
+
+
 <div display="table" float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Danmarks_Tekniske_Universitet_%28logo%29.svg/1200px-Danmarks_Tekniske_Universitet_%28logo%29.svg.png" title="DTU" alt="DTU" height="80" display="table-cell" vertical-align="middle"/>
-  
-  <ul display="table-cell" background-position="left center" background-repeat="no-repeat" vertical-align="middle">
-    <li display="inline-block" >August 2023 - January 2024</li>
-    <ul>
-      <li><a href="https://www.dtu.dk/english/">Technical University of Denmark</a> (DTU)</li>
-      <li>Exchange Program</li>
-    </ul>
-  </ul>
+
+
+__August 2023 - January 2024__
+* <a href="https://www.dtu.dk/english/">Technical University of Denmark</a> (DTU)
+* Erasmus+ exchange student
 
 </div>
 
@@ -71,17 +65,12 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
 
 <div display="table" float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/1200px-Logo-Ntnu.svg.png" title="NTNU" alt="NTNU" height="80" display="table-cell" vertical-align="middle"/>
+
+__August 2021 - June 2024__
+* <a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
+* Bachelor's Degree - Computer Science
+  * Specialization: Application development
   
-  <ul display="table-cell" background-position="left center" background-repeat="no-repeat" vertical-align="middle">
-    <li display="inline-block">August 2021 - June 2024</li>
-    <ul>
-      <li><a href="https://www.ntnu.edu">Norwegian University of Science and Technology</a> (NTNU)
-      <li>Bachelor's Degree - Computer Science</li>
-      <ul>
-        <li>Specialization: Application development</li>
-      </ul>
-    </ul>
-  </ul>
 
 </div>
 
@@ -93,7 +82,7 @@ I am a MS.c student of Computer Science at the Norwegian University of Science a
 <br/>
 
 __January 2024 - June 2024__ 
-* Norwegian University of Science and Technologu (NTNU) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/2048px-Logo-Ntnu.svg.png" height="15"/>](https://www.ntnu.edu)
+* Norwegian University of Science and Technology (NTNU) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/2048px-Logo-Ntnu.svg.png" height="15"/>](https://www.ntnu.edu)
 * Kongsberg Maritime [<img src="https://s3-symbol-logo.tradingview.com/kongsberg-gruppen-asa--600.png" height="15"/>](https://www.kongsberg.com/maritime/)
 * Bachelor thesis: Health Management - Anomaly detection and classification
   * Keywords: LSTM, deep learning, maritime vessel engine health prediction, unsupervised learning
