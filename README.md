@@ -14,12 +14,6 @@ I'm passionate about building fast, efficient, and reliable systems — both clo
 
 ## 🛠️ Technologies and Skills
 
-- **Languages**: C, C++, Python, Java, JavaScript, TypeScript, PHP
-- **Frameworks**: React, Spring
-- **Tools**: Docker, Git, Postman, MySQL, CMake
-- **Specializations**: Parallelization (OpenMP, MPI), Embedded systems, Algorithms, Systems Programming
-- **Bonus**: Experience with Moodle plugin development, Deep learning for anomaly detection (LSTM)
-
 ### Languages
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
