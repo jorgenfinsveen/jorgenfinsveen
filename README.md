@@ -104,7 +104,12 @@ __Technical University of Denmark__ (<a href="https://www.dtu.dk/english/">DTU</
 
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jorgenfinsveen&show_icons=true&theme=radical" width="400">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgenfinsveen&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=compact&theme=radical&hide=HTML,CSS,Jupyter%20Notebook" height="200"/>
+</p>
+
+
 
 <!--
 ### 📈 Stats
