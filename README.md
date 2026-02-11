@@ -1,4 +1,4 @@
-# Hi there, I am Jørgen Finsveen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+# Hi there, I am Jørgen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 [![Linkedin Badge](https://img.shields.io/badge/-joergen%20finsveen-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joergen-finsveen/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joergen_finsveen)
@@ -34,12 +34,14 @@ I'm passionate about building fast, efficient, and reliable systems — both clo
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" **alt="Docker" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/e19aed65-9746-477d-b725-f176cd8c3dee" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/bc6626da-41de-4458-bd74-0dd616f14788" title="Slurm" alt="Slurm" width="40" height="40"/>&nbsp;
 </p>
 
 ### High-Performance Computing
 * ```MPI``` - Message Passing Interface
 * ```CUDA``` - GPU Parallelization
 * ```OpenMP``` - Multithreading
+* ```Slurm``` - Linux cluster workload manager
 
 ### Specializations
 Parallelization (```MPI```, ```CUDA```, ```OpenMP```), Computer Architecture, Embedded Systems, Algorithms, Systems Programming, Application Development
@@ -84,6 +86,16 @@ __Technical University of Denmark__ (<a href="https://www.dtu.dk/english/">DTU</
 
 <br/>
 
+## 📚 Research and Theses [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/2048px-Logo-Ntnu.svg.png" height="20"/>](https://www.ntnu.edu)
+
+- **Master's Thesis (2026)** — *Identifying key performance bottlenecks in mobile GPUs*  
+  Collaboration with [Arm](https://arm.com).  
+  Focused on establishing an open, extensible research infrastructure for cycle-level simulation and evaluation of GPU architectures.  
+- **Bachelor's Thesis (2024)** — *Health Management: Anomaly Detection and Classification*  
+  Collaboration with [Kongsberg Maritime](https://www.kongsberg.com/maritime/).  
+  Focused on LSTM-based unsupervised learning models for maritime engine health prediction.  
+  [Read the paper here →](https://hdl.handle.net/11250/3138358)
+
 ## 📆 Projects and Earlier Work
 
 - [**Silicon**](https://github.com/jorgenfinsveen/silicon) 🚀 — CLI tool for C/C++ project setup, building, and running on macOS Apple Silicon.
@@ -93,16 +105,7 @@ __Technical University of Denmark__ (<a href="https://www.dtu.dk/english/">DTU</
 
 
 
-## 📚 Research and Thesis [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/2048px-Logo-Ntnu.svg.png" height="20"/>](https://www.ntnu.edu)
-
-- **Bachelor Thesis (2024)** — *Health Management: Anomaly Detection and Classification*  
-  Collaboration with [Kongsberg Maritime](https://www.kongsberg.com/maritime/).  
-  Focused on LSTM-based unsupervised learning models for maritime engine health prediction.  
-  [Read the paper here →](https://hdl.handle.net/11250/3138358)
-
-
-
-
+<!--
 ## 📈 GitHub Stats
 <p align="center">
   <img height="200" alt="score" src="https://github-readme-stats.vercel.app/api?username=jorgenfinsveen&show_icons=true&theme=radical"/>
@@ -111,7 +114,7 @@ __Technical University of Denmark__ (<a href="https://www.dtu.dk/english/">DTU</
 
 
 
-<!--
+
 ### 📈 Stats
 
 <br/>
