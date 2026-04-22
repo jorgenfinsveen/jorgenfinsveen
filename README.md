@@ -6,7 +6,7 @@
 
 ## 🖊️ About Me
 
-I'm a Computer Science student (M.Sc.) at the Norwegian University of Science and Technology (NTNU) specializing in **algorithms**, **parallel computing**, **embedded systems**, **low-level programming**, and **computer architecture**.
+I'm a Computer Science student (M.Sc.) at the <a href="https://www.ntnu.edu"> Norwegian University of Science and Technology (NTNU)</a> specializing in **algorithms**, **parallel computing**, **embedded systems**, **low-level programming**, and **computer architecture**.
 I'm passionate about building fast, efficient, and reliable systems — both close to the hardware and in scalable software architecture. I don't mind making applications either🤓
 
 
@@ -14,7 +14,10 @@ I'm passionate about building fast, efficient, and reliable systems — both clo
 ## 📫 Contact
 
 📧 _[jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)_ &nbsp; &nbsp;
-<img src="./doc/linkedin.svg" title="Java" alt="Java" height="20"/>&nbsp; _[in/joergen-finsveen/](https://www.linkedin.com/in/joergen-finsveen/)_
+
+<p>
+   <img src="./doc/linkedin.svg" title="Java" alt="Java" height="20" width="20"/> <i><a href="https://www.linkedin.com/in/joergen-finsveen/" alt="linkedin-profile">in/jorgen-finsveen</a></i>
+</p>
 
 ## 🛠️ Technologies and Skills
 
@@ -29,7 +32,7 @@ I'm passionate about building fast, efficient, and reliable systems — both clo
   <img src="./doc/asm.svg" title="Assembly" alt="Assembly" width="40"/>&nbsp;
   <img src="./doc/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="./doc/postgressql.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="./doc/php.svg" title="PHP" alt="PHP"  height="45"/>&nbsp;
+  <img src="./doc/php.svg" title="PHP" alt="PHP"  height="45" width="40"/>&nbsp;
 
 </p>
 
@@ -122,10 +125,10 @@ __Technical University of Denmark (<a href="https://www.dtu.dk/english/">DTU</a>
 
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="200" alt="score" src="https://github-readme-stats.vercel.app/api?username=jorgenfinsveen&show_icons=true&theme=radical"/>
-  <img height="200" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=compact&theme=radical&hide=HTML,CSS"/>
-</p>
+<div align="center">
+  <img height="165"  alt="score" src="https://github-readme-stats.vercel.app/api?username=jorgenfinsveen&show_icons=true&theme=radical"/>
+  <img height="200" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=compact&theme=radical&hide=HTML,CSS,Jupyter%20Notebook"/>
+</div>
 
 
 
