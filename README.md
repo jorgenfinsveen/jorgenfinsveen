@@ -1,100 +1,115 @@
 # Hi there, I am Jørgen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-[![Linkedin Badge](https://img.shields.io/badge/-joergen%20finsveen-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joergen-finsveen/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joergen_finsveen)
 
----
+<!-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joergen_finsveen) -->
+
 
 ## 🖊️ About Me
 
-I'm a Computer Science student (M.Sc.) at the Norwegian University of Science and Technology (NTNU) specializing in **algorithms**, **parallel computing**, **embedded systems**, **low-level programming**, and **computer architecture**.  
+I'm a Computer Science student (M.Sc.) at the Norwegian University of Science and Technology (NTNU) specializing in **algorithms**, **parallel computing**, **embedded systems**, **low-level programming**, and **computer architecture**.
 I'm passionate about building fast, efficient, and reliable systems — both close to the hardware and in scalable software architecture. I don't mind making applications either🤓
 
----
+
+
+## 📫 Contact
+
+📧 _[jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)_ &nbsp; &nbsp;
+<img src="./doc/linkedin.svg" title="Java" alt="Java" height="20"/>&nbsp; _[in/joergen-finsveen/](https://www.linkedin.com/in/joergen-finsveen/)_
 
 ## 🛠️ Technologies and Skills
 
 ### Languages
+
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" title="C" alt="C" width="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/bf62ac11-8418-4514-90a1-e85761c1e080" title="Assembly" alt="Assembly" width="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" title="PHP" alt="PHP"  height="40"/>&nbsp;
+
+  <img src="./doc/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="./doc/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="./doc/c.svg" title="C" alt="C" width="40"/>&nbsp;
+  <img src="./doc/c++.svg" title="C++" alt="C++" width="36"/>&nbsp;
+  <img src="./doc/asm.svg" title="Assembly" alt="Assembly" width="40"/>&nbsp;
+  <img src="./doc/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="./doc/postgressql.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="./doc/php.svg" title="PHP" alt="PHP"  height="45"/>&nbsp;
+
 </p>
 
 ### Frameworks and Tools
+
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" **alt="Docker" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/e19aed65-9746-477d-b725-f176cd8c3dee" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/bc6626da-41de-4458-bd74-0dd616f14788" title="Slurm" alt="Slurm" width="40" height="40"/>&nbsp;
+
+<img src="./doc/nextjs.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+<img src="./doc/springboot.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="./doc/postman.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="./doc/docker.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="./doc/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="./doc/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
+
 </p>
 
 ### High-Performance Computing
-* ```MPI``` - Message Passing Interface
-* ```CUDA``` - GPU Parallelization
-* ```OpenMP``` - Multithreading
-* ```Slurm``` - Linux cluster workload manager
+
+<img src="./doc/mpi.png" title="MPI" alt="MPI" width="40" height="40"/>&nbsp;
+<img src="./doc/cuda.svg" title="CUDA" alt="CUDA" width="45" height="45"/>&nbsp;
+<img src="./doc/openmp.svg" title="OpenMP" alt="OpenMP" width="55" height="45"/>&nbsp;
+<img src="./doc/slurm.svg" title="Slurm" alt="Slurm" width="40" height="40"/>&nbsp;
+
+* ```MPI``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Message Passing Interface__
+* ```CUDA``` &nbsp;&nbsp;&nbsp;&nbsp; __GPU Parallelization__
+* ```OpenMP``` &nbsp;__Multithreading__
+* ```Slurm``` &nbsp;&nbsp; __Linux cluster workload manager__
 
 ### Specializations
+
 Parallelization (```MPI```, ```CUDA```, ```OpenMP```), Computer Architecture, Embedded Systems, Algorithms, Systems Programming, Application Development
 
 
 ## 🎓 Education
 
-<br/> 
+<br/>
 <div display="table" float="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/1200px-Logo-Ntnu.svg.png"
+<img src="./doc/ntnu.svg"
      title="NTNU"
      alt="NTNU"
      height="80"
-     style="display: table-cell; vertical-align: middle;" />
+     style="padding-bottom: 1%; display: table-cell; vertical-align: middle;" />
 
 
 __August 2021 - June 2026__ <br/>
-__Norwegian University of Science and Technology__ (<a href="https://www.ntnu.edu">NTNU</a>)
+__Norwegian University of Science and Technology (<a href="https://www.ntnu.edu">NTNU</a>)__
 * __Master's Degree__ - Computer Science
-  * Specialization: _Algorithms and computers_
+  * _Algorithms and computers_
 * __Bachelor's Degree__ - Computer Science
-  * Specialization: _Application development_
- 
-    
+  * _Application development_
+
+
 </div>
 
-<br/>
+
 
 <div display="table" float="left">
-&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Danmarks_Tekniske_Universitet_%28logo%29.svg/1200px-Danmarks_Tekniske_Universitet_%28logo%29.svg.png"
+&nbsp;&nbsp;<img src="./doc/dtu_2.svg"
      title="DTU"
      alt="DTU"
-     height="80"
-     style="padding-left: 15%; display: table-cell; vertical-align: middle;" />
-
+     width="75"
+     style="padding-bottom: 1%; display: table-cell; vertical-align: middle;" />
 
 __August 2023 - January 2024__ <br/>
-__Technical University of Denmark__ (<a href="https://www.dtu.dk/english/">DTU</a>)
+__Technical University of Denmark (<a href="https://www.dtu.dk/english/">DTU</a>)__
 * Erasmus+ exchange student
 
 </div>
 
 <br/>
 
-## 📚 Research and Theses [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-Ntnu.svg/2048px-Logo-Ntnu.svg.png" height="20"/>](https://www.ntnu.edu)
+## 📚 Research and Theses &nbsp; [<img src="./doc/ntnu.svg" height="20" title="NTNU" alt="NTNU"/>](https://www.ntnu.edu)
 
-- **Master's Thesis (2026)** — *Identifying key performance bottlenecks in mobile GPUs*  
-  Collaboration with [Arm](https://arm.com).  
-  Focused on establishing an open, extensible research infrastructure for cycle-level simulation and evaluation of GPU architectures.  
-- **Bachelor's Thesis (2024)** — *Health Management: Anomaly Detection and Classification*  
-  Collaboration with [Kongsberg Maritime](https://www.kongsberg.com/maritime/).  
-  Focused on LSTM-based unsupervised learning models for maritime engine health prediction.  
-  [Read the paper here →](https://hdl.handle.net/11250/3138358)
+- **Master's Thesis (2026)** — *Identifying key performance bottlenecks in mobile GPUs*
+  Collaboration with [Arm](https://arm.com).
+  Focused on establishing an open, extensible research infrastructure for cycle-level simulation and evaluation of GPU architectures.
+- **Bachelor's Thesis (2024)** — *Health Management: Anomaly Detection and Classification*
+  Collaboration with [Kongsberg Maritime](https://www.kongsberg.com/maritime/).
+  Focused on LSTM-based unsupervised learning models for maritime engine health prediction.
+  [Read the thesis here →](https://hdl.handle.net/11250/3138358)
 
 ## 📆 Projects and Earlier Work
 
@@ -105,7 +120,7 @@ __Technical University of Denmark__ (<a href="https://www.dtu.dk/english/">DTU</
 
 
 
-<!--
+
 ## 📈 GitHub Stats
 <p align="center">
   <img height="200" alt="score" src="https://github-readme-stats.vercel.app/api?username=jorgenfinsveen&show_icons=true&theme=radical"/>
@@ -115,12 +130,11 @@ __Technical University of Denmark__ (<a href="https://www.dtu.dk/english/">DTU</
 
 
 
-### 📈 Stats
+<!-- ### 📈 Stats
 
 <br/>
 
 <p float="left">
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgenfinsveen&theme=dark&background=000000$card_width=900)](https://git.io/streak-stats)
@@ -128,11 +142,4 @@ __Technical University of Denmark__ (<a href="https://www.dtu.dk/english/">DTU</
 
 </p>
 
-<br/><br/>
--->
-
-
-## 📫 Contact
-
-- 📧 [jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)
-<!-- * Personal: [joergen.finsveen@gmail.com](mailto:joergen.finsveen@gmail.com) -->
+<br/><br/> -->
