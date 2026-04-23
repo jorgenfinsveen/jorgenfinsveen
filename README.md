@@ -12,11 +12,19 @@ I'm passionate about building fast, efficient, and reliable systems — both clo
 
 ## 📫 Contact
 
+<!--
 📧 &nbsp; _[jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)_ &nbsp; &nbsp;
 
 <p>
    <img src="./doc/linkedin.svg" title="Java" alt="Java" height="20" width="20"/>&nbsp;<i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/joergen-finsveen/" alt="linkedin-profile">in/jorgen-finsveen</a></i>
 </p> 
+-->
+
+<pre align="center">
+<a href="https://www.linkedin.com/in/joergen-finsveen/"><img src="https://skillicons.dev/icons?i=linkedin&perline=1&theme=dark" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jorgen.finsveen@ntnu.no"><img src="https://skillicons.dev/icons?i=gmail&perline=1&theme=dark" alt="E-Mail"/></a>
+
+&nbsp;<a href="https://www.linkedin.com/in/joergen-finsveen/"><i>/in/joergen-finsveen</i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jorgen.finsveen@ntnu.no"><i>jorgen.finsveen@ntnu.no</i></a>
+</pre>
 
 ## 🛠️ Technologies and Skills
 
