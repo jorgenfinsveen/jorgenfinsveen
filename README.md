@@ -10,21 +10,23 @@ I'm a Computer Science student (M.Sc.) at the <a href="https://www.ntnu.edu"> No
 I'm passionate about building fast, efficient, and reliable systems — both close to the hardware and in scalable software architecture. I don't mind making applications either🤓
 
 
-
 ## 📫 Contact
 
-📧 _[jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)_ &nbsp; &nbsp;
+📧 &nbsp; _[jorgen.finsveen@ntnu.no](mailto:jorgen.finsveen@ntnu.no)_ &nbsp; &nbsp;
 
 <p>
-   <img src="./doc/linkedin.svg" title="Java" alt="Java" height="20" width="20"/> <i><a href="https://www.linkedin.com/in/joergen-finsveen/" alt="linkedin-profile">in/jorgen-finsveen</a></i>
-</p>
+   <img src="./doc/linkedin.svg" title="Java" alt="Java" height="20" width="20"/>&nbsp;<i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/joergen-finsveen/" alt="linkedin-profile">in/jorgen-finsveen</a></i>
+</p> 
 
 ## 🛠️ Technologies and Skills
 
+### Specializations
+
+High-Performance Computing, Computer Architecture, Embedded Systems, Algorithms, Systems Programming, Application Development
+
 ### Languages
-
+<!--
 <p>
-
   <img src="./doc/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="./doc/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="./doc/c.svg" title="C" alt="C" width="40"/>&nbsp;
@@ -33,11 +35,18 @@ I'm passionate about building fast, efficient, and reliable systems — both clo
   <img src="./doc/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="./doc/postgressql.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="./doc/php.svg" title="PHP" alt="PHP"  height="45" width="40"/>&nbsp;
+</p>
+-->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,java,ts,nodejs,postgres&perline=8&theme=dark" alt="languages"/>
+  </a>
 </p>
 
 ### Frameworks and Tools
 
+<!--
 <p>
 
 <img src="./doc/nextjs.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
@@ -48,26 +57,44 @@ I'm passionate about building fast, efficient, and reliable systems — both clo
 <img src="./doc/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
 
 </p>
+-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,spring,postman,linux,docker,git,cmake,raspberrypi&perline=8&theme=dark" alt="languages"/>
+  </a>
+</p>
 
 ### High-Performance Computing
 
-<img src="./doc/mpi.png" title="MPI" alt="MPI" width="40" height="40"/>&nbsp;
-<img src="./doc/cuda.svg" title="CUDA" alt="CUDA" width="45" height="45"/>&nbsp;
-<img src="./doc/openmp.svg" title="OpenMP" alt="OpenMP" width="55" height="45"/>&nbsp;
-<img src="./doc/slurm.svg" title="Slurm" alt="Slurm" width="40" height="40"/>&nbsp;
+<pre align="center">
+   <img src="./doc/mpi.png" title="MPI" alt="MPI" width="40" height="40"/>&nbsp;<img src="./doc/cuda.svg" title="CUDA" alt="CUDA" width="45" height="45"/>&nbsp;&nbsp;<img src="./doc/slurm.svg" title="Slurm" alt="Slurm" width="40" height="40" />&nbsp;<img src="./doc/openmp.svg" title="OpenMP" alt="OpenMP" width="85" height="65"/>&nbsp;
+
+<code>MPI</code> • <code>CUDA</code> • <code>Slurm</code> • <code>OpenMP</code>
+
+<b>Message Passing Interface</b> • <b>GPU Programming</b> • <b>Linux Cluster Workload Manager</b> • <b>Multithreading</b>
+</pre>
+
+<!--
+<p align "center">
+
+   <img src="./doc/mpi.png" title="MPI" alt="MPI" width="40" height="40"/>&nbsp;
+   <img src="./doc/cuda.svg" title="CUDA" alt="CUDA" width="45" height="45"/>&nbsp;
+   <img src="./doc/openmp.svg" title="OpenMP" alt="OpenMP" width="55" height="45"/>&nbsp;
+   <img src="./doc/slurm.svg" title="Slurm" alt="Slurm" width="40" height="40"/>&nbsp;
+</p>
+
+
 
 * ```MPI``` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; __Message Passing Interface__
 * ```CUDA``` &nbsp;&nbsp;&nbsp;&nbsp; __GPU Parallelization__
 * ```OpenMP``` &nbsp;__Multithreading__
 * ```Slurm``` &nbsp;&nbsp; __Linux cluster workload manager__
-
-### Specializations
-
-Parallelization (```MPI```, ```CUDA```, ```OpenMP```), Computer Architecture, Embedded Systems, Algorithms, Systems Programming, Application Development
+-->
 
 
 ## 🎓 Education
-
+   
 <br/>
 <div display="table" float="left">
 <img src="./doc/ntnu.svg"
@@ -87,6 +114,7 @@ __Norwegian University of Science and Technology (<a href="https://www.ntnu.edu"
 
 </div>
 
+<br/>
 
 
 <div display="table" float="left">
