@@ -1,5 +1,8 @@
-# Hi there, I am Jørgen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<!--
 
+# Hi there, I am Jørgen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+-->
 
 <!-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joergen_finsveen) -->
 
@@ -7,9 +10,9 @@
 ## 🖊️ About Me
 
 I'm a Computer Science student (M.Sc.) at the <a href="https://www.ntnu.edu"> Norwegian University of Science and Technology (NTNU)</a> specializing in **algorithms**, **parallel computing**, **embedded systems**, **low-level programming**, and **computer architecture**.
-I'm passionate about building fast, efficient, and reliable systems — both close to the hardware and in scalable software architecture. I don't mind making applications either🤓
+I'm passionate about building fast, efficient, and reliable systems, both close to the hardware and in scalable software architecture. I don't mind making applications either🤓
 
-
+<!--
 ## 📫 Contact
 
 <!--
@@ -18,14 +21,14 @@ I'm passionate about building fast, efficient, and reliable systems — both clo
 <p>
    <img src="./doc/linkedin.svg" title="Java" alt="Java" height="20" width="20"/>&nbsp;<i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/joergen-finsveen/" alt="linkedin-profile">in/jorgen-finsveen</a></i>
 </p> 
--->
+
 
 <pre align="center">
 <a href="https://www.linkedin.com/in/joergen-finsveen/"><img src="https://skillicons.dev/icons?i=linkedin&perline=1&theme=dark" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jorgen.finsveen@ntnu.no"><img src="https://skillicons.dev/icons?i=gmail&perline=1&theme=dark" alt="E-Mail"/></a>
 
 &nbsp;<a href="https://www.linkedin.com/in/joergen-finsveen/"><i>/in/joergen-finsveen</i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:jorgen.finsveen@ntnu.no"><i>jorgen.finsveen@ntnu.no</i></a>
 </pre>
-
+-->
 ## 🛠️ Technologies and Skills
 
 ### Specializations
@@ -138,6 +141,7 @@ __Technical University of Denmark (<a href="https://www.dtu.dk/english/">DTU</a>
 
 </div>
 
+<!--
 <br/>
 
 ## 📚 Research and Theses &nbsp; [<img src="./doc/ntnu.svg" height="20" title="NTNU" alt="NTNU"/>](https://www.ntnu.edu)
@@ -166,6 +170,7 @@ __Technical University of Denmark (<a href="https://www.dtu.dk/english/">DTU</a>
   <img height="200" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgenfinsveen&layout=compact&theme=radical&hide=HTML,CSS,Jupyter%20Notebook"/>
 </div>
 
+-->
 
 
 
